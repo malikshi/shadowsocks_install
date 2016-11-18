@@ -80,7 +80,7 @@ print_info(){
     clear
     echo "#############################################################"
     echo "# Install Shadowsocks-libev server for Debian or Ubuntu     #"
-    echo "# Intro:  https://teddysun.com/358.html                     #"
+    echo "# Intro:  synricha.net                                      #"
     echo "# Author: Teddysun <i@teddysun.com>                         #"
     echo "# Github: https://github.com/shadowsocks/shadowsocks-libev  #"
     echo "#############################################################"
